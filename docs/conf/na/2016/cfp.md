@@ -30,6 +30,7 @@ Below are some talks from past events that we feel really captured the spirit of
 - Matthew Butterick --- Typography for Docs ([abstract](http://docs.writethedocs.org/conference/talks/#matthew-butterick-typography-for-docs))
 - Kenneth Reitz --- Documentation at Scale ([abstract](http://docs.writethedocs.org/2014/na/talks/#kenneth-reitz-documentation-at-scale))
 - Heidi Waterhouse --- The New Sheriff in Town: Bringing documentation out of chaos ([abstract](http://docs.writethedocs.org/2014/na/talks/#heidi-waterhouse-the-new-sheriff-in-town-bringing-documentation-out-of-chaos))
+
 ## PRESENTATION FORMAT
 
 Presentations will be 30 minutes long. If you have specific length needs for your presentation, let us know and we can work with it.
