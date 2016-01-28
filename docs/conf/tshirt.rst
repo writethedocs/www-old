@@ -1,13 +1,13 @@
+:orphan:
+
 Men's Shirt
 ===========
 
-.. figure:: 3600.jpg
-   :alt: 
+.. figure:: na/shirts/3600.jpg
+   :alt:
 
 Women's Shirt
 =============
 
-.. figure:: 3900.png
-   :alt: 
-
-
+.. figure:: na/shirts/3900.jpg
+   :alt:

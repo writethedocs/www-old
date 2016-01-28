@@ -1,4 +1,5 @@
 :template: 2015/eu.html
+:orphan:
 
 Announcing Ticket Sales and Extended Call for Proposals
 =======================================================

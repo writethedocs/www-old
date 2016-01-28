@@ -1,4 +1,5 @@
 :template: 2015/eu.html
+:orphan:
 
 Schedule
 ========
@@ -1439,6 +1440,3 @@ Closing meetup by Elastic at JazzDock (Janáčkovo nábřeží 2, Praha 5)
    </td>
      </tr>
    </table>
-
-
-

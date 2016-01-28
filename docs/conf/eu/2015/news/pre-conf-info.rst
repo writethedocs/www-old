@@ -1,4 +1,5 @@
 :template: 2015/eu.html
+:orphan:
 
 Welcome to Write the Docs Europe
 ================================

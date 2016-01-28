@@ -1,4 +1,5 @@
-template: 2015/na/blog.html
+:template: 2015/na.html
+:orphan:
 
 Announcing Keynotes, Initial Sponsors, and a Proposal Reminder
 --------------------------------------------------------------

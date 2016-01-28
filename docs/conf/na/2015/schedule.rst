@@ -1,4 +1,5 @@
 :template: 2015/na.html
+:orphan:
 
 Schedule
 ========
@@ -1179,5 +1180,3 @@ Unconference wraps up
    </td>
      </tr>
    </table>
-
-

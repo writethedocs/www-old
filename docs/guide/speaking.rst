@@ -1,4 +1,5 @@
-template: base.html
+:template: conf-base.html
+:orphan:
 
 Giving a Presentation at Write the Docs
 ---------------------------------------
@@ -62,5 +63,3 @@ the full talk:
      src="https://www.youtube.com/embed/7tncfRqKnXU?list=PLmV2D6sIiX3UkFCMqq5at0xYgsMqAr6Jf"
      frameborder="0"
      allowfullscreen></iframe>
-
-

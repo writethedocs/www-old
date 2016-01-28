@@ -1,4 +1,5 @@
 :template: 2016/na.html
+:orphan:
 
 Visiting Portland
 =================
@@ -85,4 +86,3 @@ much recommend!):
 
 -  `Waterfront Bikes <http://www.waterfrontbikes.com/>`__
 -  `Cycle Portland <http://www.portlandbicycletours.com/>`__
-

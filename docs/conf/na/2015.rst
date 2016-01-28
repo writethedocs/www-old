@@ -1,4 +1,5 @@
-template: 2015/na/conf.html
+:template: 2015/na.html
+:orphan:
 
 Write the Docs NA 2015
 ======================
@@ -1148,4 +1149,3 @@ up for our mailing list:
 
    </form>
    </div>
-

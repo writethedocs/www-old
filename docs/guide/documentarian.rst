@@ -1,4 +1,5 @@
-template: base.html
+:template: conf-base.html
+:orphan:
 
 What's a Documentarian?
 -----------------------
@@ -15,4 +16,3 @@ We believe that a Documentarian also works with another definition:
 ::
 
     A person who views products in terms of teachability
-

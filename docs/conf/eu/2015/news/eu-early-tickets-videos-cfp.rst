@@ -1,4 +1,5 @@
 :template: 2015/eu.html
+:orphan:
 
 Early-Bird Tickets Sell Out, Videos, and Proposal Reminder
 ==========================================================

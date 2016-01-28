@@ -1,4 +1,5 @@
 :template: 2015/na.html
+:orphan:
 
 Welcome to Write the Docs
 =========================

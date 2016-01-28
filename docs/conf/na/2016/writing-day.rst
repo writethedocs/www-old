@@ -1,4 +1,5 @@
 :template: 2016/na.html
+:orphan:
 
 Writing Day
 -----------

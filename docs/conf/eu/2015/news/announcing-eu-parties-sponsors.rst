@@ -1,4 +1,5 @@
 :template: 2015/eu.html
+:orphan:
 
 Announcing Parties, Friends-and-Family Tickets, Sponsors
 ========================================================

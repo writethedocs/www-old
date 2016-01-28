@@ -1,4 +1,5 @@
 :template: 2015/na.html
+:orphan:
 
 Check out the Videos, Forum, Local Meetups, and European Call for Proposals
 ===========================================================================

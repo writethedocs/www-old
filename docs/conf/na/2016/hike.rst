@@ -1,4 +1,5 @@
 :template: 2016/na.html
+:orphan:
 
 Write the Docs Hike
 ===================
@@ -69,7 +70,7 @@ Meander
 It will follow Balch Creek up from the entrance of `Forest
 Park <http://www.forestparkconservancy.org/>`__.
 
-.. figure:: /img/2015/hike/balch.jpg
+.. figure:: /_static/img/2015/hike/balch.jpg
    :alt: Balch Creek
 
    Balch Creek
@@ -81,7 +82,7 @@ Then we will switchback through beautiful forest until we get to Pittock
 Mansion. Pittock affords one of the best views of the city, and
 hopefully Mt. Hood & Mt. St. Helens if it's clear!
 
-.. figure:: /img/2015/hike/pittock.jpg
+.. figure:: /_static/img/2015/hike/pittock.jpg
    :alt: Pittock
 
    Pittock

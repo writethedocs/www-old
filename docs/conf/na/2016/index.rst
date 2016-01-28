@@ -1,4 +1,5 @@
 :template: 2016/na.html
+:orphan:
 
 About the conference
 ====================
@@ -171,4 +172,3 @@ us on Twitter at
 up for our mailing list:
 
 .. include:: /include/na-mailchimp.rst
-

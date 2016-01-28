@@ -1,4 +1,5 @@
 :template: 2016/na.html
+:orphan:
 
 Date Announcement for NA 2016
 =============================

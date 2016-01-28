@@ -1,4 +1,5 @@
 :template: 2015/eu.html
+:orphan:
 
 Thanks for coming to Write the Docs Europe 2015
 ===============================================

@@ -1,4 +1,5 @@
 :template: 2015/eu.html
+:orphan:
 
 Announcing Write the Docs Europe 2015
 =====================================

@@ -1,5 +1,5 @@
 :template: 2016/na.html
-
+:orphan:
 
 Schedule
 ========
@@ -32,7 +32,7 @@ you can continue your conversations over more substantial food as well.
    <table class="schedule">
    <tr>
     <td class="schedule-time">9 AM</td>
-    <td><a href="/conf/na/2016/writing-day/">Writing Day</a> documentation sprints begin 
+    <td><a href="/conf/na/2016/writing-day/">Writing Day</a> documentation sprints begin
    </tr>
    <tr>
     <td class="schedule-time">12:00 PM</td>
@@ -52,7 +52,7 @@ Monday, May 23rd - Day 1
 ------------------------
 
 This is the main event! Hear from lots of interesting folks about all
-things documentation. 
+things documentation.
 
 The talks will take place at the **Crystal Ballroom located at 1332 W
 Burnside St**.

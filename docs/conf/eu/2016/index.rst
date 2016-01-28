@@ -1,4 +1,5 @@
 :template: 2016/eu.html
+:orphan:
 
 About
 =====
@@ -15,7 +16,7 @@ learn from each other, and there's no better way than sitting together
 and talking.
 
 The main presentation track takes place from **September 19-20 (Monday and
-Tuesday) from 9am to 6pm**. 
+Tuesday) from 9am to 6pm**.
 
 .. image:: https://farm8.staticflickr.com/7443/14198154853_0cddd983b6_c.jpg
    :width: 49%
@@ -142,4 +143,3 @@ up for our mailing list:
    </div>
    </form>
    </div>
-
