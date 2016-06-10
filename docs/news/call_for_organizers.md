@@ -38,7 +38,8 @@ WHAT TO EXPECT FROM HELPING ORGANIZE: WHAT YOU WON'T HAVE TO WORRY ABOUT
 
 * Swag, signs, t-shirts -- designs only. The designs will be shared across all 2017 conferences (with adjustments for individual locations)
 
-* If we go with the State Theatre: anything catering-related. They'll handle everything. (check this on website and in email)
+* If we go with the State Theatre: anything catering-related. They require us to use their catering service.
+
 
 
 
