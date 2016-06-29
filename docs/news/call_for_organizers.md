@@ -8,7 +8,7 @@ Jennifer Rondeau, co-organizer of WTD NA in Portland for two years now, recently
 
 [State Theatre, Falls Church, VA](http://www.thestatetheatre.com/index.xml)
 
-I'll be visiting this week, meeting with the owner and event coordinator, and I'll report back in a separate email. A few things to note, though:
+I visited a couple of weeks ago and met with the owner and event coordinator. I'm still waiting on a quote from the coordinator for the total cost, which at the moment is planned to cover two shorter days (10am to 4pm Monday-Tuesday in early October). I'll let you know when I have more information. We've been asked, though, to decide on dates by the end of summer 2016.
 
 * The venue is already set up to host conferences, unlike the Crystal Ballroom in Portland. This means that we don't need to worry about setting up wifi or taping down power cables -- big wins!
 
@@ -18,7 +18,7 @@ WHAT TO EXPECT FROM HELPING ORGANIZE: WHAT WE DO
 
 * Production of designed materials. (Jennifer will probably handle this if we have items produced locally.)
 
-* Review of proposals. With three conferences possibly being held in the same year, the current organizers are still brainstorming how we might encourage speakers to speak at more than one WTD conference in the same year, but you should still expect to review 50-60 proposals to help whittle the list down to 20 or so. (check numbers).
+* Review of proposals. With three conferences possibly being held in the same year, the current organizers are still brainstorming how we might encourage speakers to speak at more than one WTD conference in the same year, but you should still expect to review 50-60 proposals to help whittle the list down to 20 or so.
 
 * Setting up for Writing Day
 
@@ -26,19 +26,13 @@ WHAT TO EXPECT FROM HELPING ORGANIZE: WHAT WE DO
 
 ORGANIZER ROLES
 
-* Speaker wrangler
-
-* Volunteer coordinator
-
-* Unconf wrangler (low key)
-
-NEED TO LOOK AT ORGANIZER MANUAL
+See [this page](http://organizer-manual.readthedocs.io/en/latest/confs/organizers.html) of the organizer manual.
 
 WHAT TO EXPECT FROM HELPING ORGANIZE: WHAT YOU WON'T HAVE TO WORRY ABOUT
 
 * Swag, signs, t-shirts -- designs only. The designs will be shared across all 2017 conferences (with adjustments for individual locations)
 
-* If we go with the State Theatre: anything catering-related. They require us to use their catering service.
+* If we go with the State Theatre: anything catering-related. They require us to use their catering service. This means that they handle everything: food, booze, non-alcoholic beverages, setup, and breakdown.
 
 
 
