@@ -16,11 +16,13 @@ and talking.
 
 The main presentation track takes place from **September 19-20 (Monday and
 Tuesday) from 9am to 6pm**.
+Our venue will be the `Auto Klub <http://www.ganimed.cz/>`_ right next to the train station in the Prague city center.
 
 News
 ^^^^
 
 - :doc:`/conf/eu/2016/news/cfp-tickets`
+- :doc:`/conf/eu/2016/news/cfp-new-deadline`
 
 Can't wait?
 ^^^^^^^^^^^
@@ -31,6 +33,9 @@ and
 `photos <https://www.flickr.com/writethedocs>`_ from last year. We also
 have a `guide <http://docs.writethedocs.org/>`_ for getting started
 writing documentation.
+
+.. role:: strike
+    :class: strike
 
 Tickets
 -------
@@ -63,7 +68,7 @@ Purchase this ticket if a company is paying for your attendance.
 Companies interested in sponsorship can also receive tickets to the
 conference with a sponsorship package.
 
-* €150 Corporate Early Bird (Limit 25)
+* :strike:`€150 Corporate Early Bird` - **Sold Out**
 * €200 Corporate
 
 Independent Tickets
@@ -72,7 +77,7 @@ Independent Tickets
 Purchase this ticket if you are paying for yourself, work at a
 non-profit, or at a company with less than 10 employees.
 
-* €75 Independent Early Bird (Limit 25)
+* :strike:`€75 Independent Early Bird` - **Sold Out**
 * €100 Independent
 
 Financial Assistance
@@ -109,6 +114,11 @@ information on sponsoring Write the Docs.
 .. raw:: html
 
     <div class="row row-sponsors">
+
+      <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+        <a href="https://developer.mozilla.org/">
+        <img src="/_static/img/2016/sponsors/mdn.png" width=200/></a>
+      </div>
 
       <!-- Editor -->
       <div class="col-md-8 col-sm-4">
